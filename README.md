@@ -20,7 +20,7 @@ Enunciados dos exercícios:
 
 - Código do produto: 0001; 0002; 0003; 0004.
 
-- Valor(R$): 2,50; 3,00; 5,00: 10,00.
+- Valor(R$): 2,50; 3,00; 5,00; 10,00.
 
   Respectivamente.
 
