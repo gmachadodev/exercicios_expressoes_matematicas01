@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542556117 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 3 - exercicios da lista 5\exercício 3 - media simples com aprovadou ou reprovado\media_aprovado_reprovado\main.c
+	<stdio.h>
+	<stdlib.h>
+

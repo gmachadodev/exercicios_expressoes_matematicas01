@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542565095 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 3 - exercicios da lista 5\exercício 6 - calculo de expressao de tres numeros\calculo_expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

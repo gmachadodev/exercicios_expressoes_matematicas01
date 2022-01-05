@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542571139 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 3 - exercicios da lista 5\exercício 8 - calculo de consumo da padaria\padaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
